@@ -6,7 +6,7 @@ Este código obtém informações do escavador e do capes/sucupira para a forma�
 
 ## Código atual
 
-Do escavador, retira informações com base no nome fornecido. Do sucupira, retira informções de professores e alunos com base numa lista de áreas de atuação fornecida. Os dados são exportados para um excel.
+Do escavador, retira informações com base no nome fornecido. Do sucupira, retira informações de professores e alunos com base numa lista de áreas de atuação fornecida. Os dados são exportados para um excel.
 
 ## A desenvolver 
 
